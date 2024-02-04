@@ -553,4 +553,4 @@ tmpfs                                tmpfs     118M     0  118M   0% /sys/fs/cgr
 tmpfs                                tmpfs      24M     0   24M   0% /run/user/1000
 [root@lvm ~]#
 ```
-Полный лог находиться в файле dz4.log
+Полный лог находиться в файле [dz4.log](dz4.log)
